@@ -27,7 +27,7 @@ redirect_from:
 * 2020–2021: Postgraduate Researcher, Global and Community Mental Health Research Group, NYU Shanghai
 * 2019:	Research Assistant, Centre for Macau Studies, University of Macau
 * 2018–2020: Postgraduate Researcher, Global and Community Mental Health Research Group, Department of Psychology, University of Macau
-* 2015-2018: Master's student, School of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University, Beijing, China
+* 2015-2018: Master's student, School of Psychological and Cognitive Sciences and Beijing Key Laboratory of Behavior and Mental Health, Peking University
 
   
 :bulb: Research Grant

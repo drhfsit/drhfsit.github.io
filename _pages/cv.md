@@ -36,7 +36,6 @@ redirect_from:
 
 :page_with_curl: Publications
 -----
-
 1.	**Sit, H. F.**, Cheung, F. T. W., Li, X., Chan, R. N. Y., Chan, J. W. Y., Wing, Y. K., & Li, S. X. (2025). Unravelling symptom interplay of depression, anxiety, insomnia and suicidality in adolescents: A network analysis. _International Journal of Clinical and Health Psychology, 25_ (3), 100619, https://doi.org/10.1016/j.ijchp.2025.100619 
 2.	Zeng, S., **Sit, H. F.**, Li, X., Bottary, R., Pace-Schott, E. F., Cunningham, T. J., Li, S. X., & Hu, X. (2025). Impaired emotional memory dissipation in insomnia disorder. _Psychological Medicine, 55_, e260. https://doi.org/10.1017/S0033291725101566 
 3.	**Sit, H. F.**, Chen, W., Wu, D., Huang, Y., Xu, D. R., & Hall, B. J. (2024). Digital mental health: a potential opportunity to improve health equity in China. _The Lancet Public Health, 9_(12), e1136–e1141. https://doi.org/10.1016/S2468-2667(24)00249-4 

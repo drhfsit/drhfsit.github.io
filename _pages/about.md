@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-:sparkles: Bio
+:octocat: Bio
 -----
-Dr. Sit is a researcher and a registered psychotherapist based in Macao. She read psychology as an undergraduate student at the University of Macau. Upon completing her undergraduate study, she became a master's student in clinical psychology at the School of Psychology and Cognitive Sciences, Peking University. In 2025, she earned her PhD from the University of Hong Kong. Her clinical and research interests lie in common mental health and sleep disorders among vulnerable populations (e.g., adolescents, caregivers) and mental health interventions. 
+Dr. Sit is a clinical psychologist based in Macao. She read psychology as an undergraduate student at the University of Macau. Upon completing her undergraduate study, she became a master's student in clinical psychology at the School of Psychological and Cognitive Sciences, Peking University. In 2025, she earned her PhD from the University of Hong Kong. Her clinical and research interests lie in common mental health and sleep disorders among vulnerable populations (e.g., adolescents, caregivers) and mental health interventions. 
 
-:sparkles: Research Interests
+:star2: Research Interests
 -----
 * Common mental disorders
 * Digital mental health
@@ -21,7 +21,7 @@ Dr. Sit is a researcher and a registered psychotherapist based in Macao. She rea
 * Polysomnography
 * Sleep science
 
-:sparkles: Clinical Interests
+:heartpulse: Clinical Interests
 -----
 * Cognitive behavioral therapy
 * Common mental disorders
@@ -29,6 +29,6 @@ Dr. Sit is a researcher and a registered psychotherapist based in Macao. She rea
 * Insomnia
 * Mindfulness
 
-:sparkles: Contact Me
+:mailbox_with_mail: Contact Me
 ------
 hfsit@connect.hku.hk
